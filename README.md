@@ -32,3 +32,6 @@ Este proyecto es una aplicación básica hecha en Java con NetBeans que permite 
 Anthony Melgarejo – Estudiante de Ingeniería de Sistemas  
 Universidad Privada del Norte (UPN)
 
+Este cambio fue realizado desde la rama de colaboración.
+
+
